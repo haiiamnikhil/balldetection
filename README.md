@@ -3,6 +3,7 @@
 Create a Pip Virtual Environment using <code>virtualenv .</code>
 
 Now activate it using the following command<br />
+<br />
 __Windows__<code>Scripts/activate</code><br />
 __Ubuntu__<code>source Scripts/bin/activate</code>
 
@@ -11,6 +12,8 @@ Once it is activated you are ready to configure the project
 <h4>Read the installation steps below</h4>
 
 1. Download Yolo Weights<br />
+
+<br />
 [YoloV3](https://pjreddie.com/media/files/yolov3.weights)<br />
 [YoloV4](https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights)
 
