@@ -2,7 +2,9 @@
 
 Create a Pip Virtual Environment using <code>virtualenv .</code>
 
-Now activate it using the following command<code>Scripts/activate</code>
+Now activate it using the following command<br />
+_Windowns_<code>Scripts/activate</code>
+_Ubundu_<code>source Scripts/bin/activate</code>
 
 Once it is activated you are ready to configure the project
 
