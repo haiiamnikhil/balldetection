@@ -13,7 +13,6 @@ Once it is activated you are ready to configure the project
 
 1. Download Yolo Weights<br />
 
-<br />
 [YoloV3](https://pjreddie.com/media/files/yolov3.weights)<br />
 [YoloV4](https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights)
 
