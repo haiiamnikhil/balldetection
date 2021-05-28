@@ -9,12 +9,13 @@ Once it is activated you are ready to configure the project
 <h4>Read the installation steps below</h4>
 
 <ul>
-  <li>Download Yolo Weights</li>
-
+  <li>Download Yolo Weights
 
   <li>1. [YoloV3](https://pjreddie.com/media/files/yolov3.weights)</li>
   <li>2. [YoloV4](https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights)</li>
-  
+  </li>
+  </ul>
+  <ul>
 
   <li>Save the file to the weight folder in the Project Directory.</li>
   
