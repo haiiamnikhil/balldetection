@@ -20,4 +20,6 @@ Once it is activated you are ready to configure the project
   
 4. Save the downloaded video to the project directory.
   
-5. Add the file name on the source code and run the project
+5. Add the file name on the source code with file name <code>detector.py</code>
+
+6. Now Save the Project and run using Environment Activated Terminal or Command Prompt using <code>py detector.py</code>
