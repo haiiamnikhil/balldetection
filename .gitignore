@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+yolov4.weights
+yolov3.weights
+Lib/
+Scripts/
+__pycache__/
+cricket.mp4
