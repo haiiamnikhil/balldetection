@@ -12,10 +12,10 @@ Once it is activated you are ready to configure the project
 [YoloV3](https://pjreddie.com/media/files/yolov3.weights)
 [YoloV4](https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights)
 
-  Save the file to the weight folder in the Project Directory.
+  2. Save the file to the weight folder in the Project Directory.
   
-Download a cricket video of not less than 1080P.
+3. Download a cricket video of not less than 1080P.
   
-  Save the downloaded video to the project directory.
+  4. Save the downloaded video to the project directory.
   
-  Add the file name on the source code and run the project
+  5. Add the file name on the source code and run the project
