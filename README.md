@@ -10,9 +10,10 @@ Once it is activated you are ready to configure the project
 
 <ul>
   <li>Download Yolo Weights
-
+<ul>
   <li>1. [YoloV3](https://pjreddie.com/media/files/yolov3.weights)</li>
   <li>2. [YoloV4](https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights)</li>
+    </ul>
   </li>
   </ul>
   <ul>
