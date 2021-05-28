@@ -14,8 +14,9 @@ Once it is activated you are ready to configure the project
 <ul>
   <li>[YoloV3](https://pjreddie.com/media/files/yolov3.weights)</li>
   <li>[YoloV4](https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights)</li>
-  </li>
+  
 </ul>
+  </li>
   
 
   <li>Save the file to the weight folder in the Project Directory.</li>
