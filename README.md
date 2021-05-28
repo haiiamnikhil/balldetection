@@ -3,8 +3,8 @@
 Create a Pip Virtual Environment using <code>virtualenv .</code>
 
 Now activate it using the following command<br />
-_Windowns_<code>Scripts/activate</code>
-_Ubundu_<code>source Scripts/bin/activate</code>
+__Windows__<code>Scripts/activate</code><br />
+__Ubuntu__<code>source Scripts/bin/activate</code>
 
 Once it is activated you are ready to configure the project
 
